@@ -1,0 +1,47 @@
+[33mcommit 3045982c3e14d14528eb305f6725570a1596debc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sumin <shol7684@naver.com>
+Date:   Wed Mar 16 15:59:04 2022 +0900
+
+    Revert "sec commit11111":wq
+    
+    This reverts commit 304f46c72abaa5fe623b1f2bd8d351f2d343b2f6.
+
+[33mcommit c1f2659fd7419ccd632e39119cec112fd6c90867[m
+Author: sumin <shol7684@naver.com>
+Date:   Wed Mar 16 15:56:17 2022 +0900
+
+    Revert "lions add"
+    
+    This reverts commit e6a20a3a7bdde9929af0a4856f353ea34af5d002.
+
+[33mcommit 6b9eab12cf413fa09e56a8d79dbd2142796b7a1d[m
+Author: sumin <shol7684@naver.com>
+Date:   Wed Mar 16 15:55:09 2022 +0900
+
+    Revert "cm1"
+    
+    This reverts commit de3ce3616c2b0a20b287ed8496a329898cef89ff.
+
+[33mcommit e6a20a3a7bdde9929af0a4856f353ea34af5d002[m
+Author: sumin <shol7684@naver.com>
+Date:   Wed Mar 16 15:54:28 2022 +0900
+
+    lions add
+
+[33mcommit de3ce3616c2b0a20b287ed8496a329898cef89ff[m
+Author: sumin <shol7684@naver.com>
+Date:   Wed Mar 16 15:49:35 2022 +0900
+
+    cm1
+
+[33mcommit 304f46c72abaa5fe623b1f2bd8d351f2d343b2f6[m
+Author: sumin <shol7684@naver.com>
+Date:   Tue Mar 15 16:42:19 2022 +0900
+
+    sec commit
+
+[33mcommit 9da7a58d68fa80c59a08f925ac29ef91f369f6a6[m
+Author: sumin <shol7684@naver.com>
+Date:   Tue Mar 15 16:35:24 2022 +0900
+
+    첫번째 커밋
